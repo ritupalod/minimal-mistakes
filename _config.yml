@@ -11,17 +11,17 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Blog"
+title                    : "DW | BI Blog"
 title_separator          : "-"
 name                     : "Ritu Palod"
 description              : "Business Intelligence and Data Warehousing Blog"
 url                      : "https://ritupalod.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # "/blog"
 repository               : "ritupalod/ritupalod.github.io"
 teaser                   : "/assets/images/matthew-kane-278419-unsplash.jpg"
 breadcrumbs              : true # true, false (default)
@@ -98,8 +98,8 @@ analytics:
 # Site Author
 author:
   name             : "Ritu Palod"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Information Systems masters from Northeastern University with prior 6 years of extensive experience creating Business Intelligence solutions while working as Senior Business Intelligence Analyst. Proficient in SQL for complex data retrieval and Python/R for statistical data analysis to comprehend trends for business solutions on large datasets."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an Information Systems masters with prior 6 years of extensive experience creating Business Intelligence solutions. :sunny: Passionate about business intelligence and uncovering hidden facts from data."
   location         : "Boston, MA USA"
   email            : "ritu.palod@gmail.com"
   uri              :
@@ -266,6 +266,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
   # _portfolio
   - scope:

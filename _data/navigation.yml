@@ -1,12 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://ritupalod.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://ritupalod.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Portfolio"
+    # url: /portfolio-archive/
+    url: /portfolio/
+  - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "About"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
