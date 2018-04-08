@@ -28,14 +28,6 @@ feature_row:
     url: "https://goo.gl/XzeBwk"
 
 feature_row2:
-  - image_path: /assets/images/dashboards/analysing-us-universities-powerbi.png
-    alt: "placeholder image 2"
-    title: "Analysing US Universities | PowerBI"
-    url: "https://youtu.be/VylltUWySAU"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row3:
   - image_path: /assets/images/dashboards/sales-story-1.png
     alt: "placeholder image 2"
     title: "Sub Products which lie below the average of total profits for all categories Tableau Dashboard  "
@@ -43,7 +35,8 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row4:
+
+feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
@@ -57,8 +50,8 @@ feature_row4:
 
 {% include feature_row %}
 
+{% include video id="VylltUWySAU" provider="youtube" %}
+
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-<!-- {% include feature_row id="feature_row4" type="center" %} -->
