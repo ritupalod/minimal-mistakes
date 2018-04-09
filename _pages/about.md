@@ -4,22 +4,18 @@ layout: splash
 permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: assets/images/about.jpg
+  overlay_image: assets/images/ian-froome-362124-unsplash.jpg
   caption: "Photo credit: [Photo by Ian Froome on Unsplash](https://unsplash.com)"
+  cta_label: "<i class='fas fa-file-word'></i> Download Resume"
+  cta_url: "/assets/files/ritu_palod_resume.doc"
 excerpt: "Life is not measured by the number of breaths we take, but by the number of moments that take your breath away."
-
-intro:
-  - excerpt: 'I am an Information Systems masters from Northeastern University with prior 6 years of extensive experience creating Business Intelligence solutions while working as Senior Business Intelligence Analyst. Proficient in SQL for complex data retrieval and Python/R for statistical data analysis to comprehend trends for business solutions on large datasets. Looking to leverage my knowledge and experience into a collaborative and responsible role in an organization.'
 ---
-
-<!-- {% include feature_row id="intro" type="center" %} -->
-
 
 # Ritu Palod
 
-:house_with_garden: Boston, MA 02115  :phone: (857) 763-9983
+| :house_with_garden: Boston, MA 02115 | :phone: (857) 763-9983 |
 
-:email: ritu.palod@gmail.com :globe_with_meridians: ritupalod.github.io :sunflower: https://public.tableau.com/profile/ritu.palod
+| :email: [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) | :globe_with_meridians: [ritupalod.github.io](https://ritupalod.github.io) | :sunflower: [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
 
 
 # :sunrise: Summary
@@ -27,7 +23,8 @@ I am an Information Systems masters from Northeastern University with prior 6 ye
 
 # :school: Education
 ## Northeastern University :pushpin: Boston, MA
-**Master of Science in Information Systems** :watch: 2015 - 2017 | 2 yr
+
+| **Master of Science in Information Systems** | :watch: 2015 - 2017 \ 2 yr |
 
 Coursework:
 - Data Warehousing and Business Intelligence (Tableau, Qlik Sense, Power BI, Talend)
@@ -41,14 +38,17 @@ Coursework:
 - Web Design/User Experience Engineering (CSS, HTML, PHP, jQuery, AngularJS)
 
 ## Pt. Ravishankar Shukla University :pushpin: Durg, India
-**Bachelor of Engineering in Computer Science and Engineering** :watch: 2004 -2008 | 4 yr
+
+| **Bachelor of Engineering in Computer Science and Engineering** | :watch: 2004 -2008 \ 4 yr |
 
 # :office: Work Experience
 
 ## Dassault Systèmes :pushpin: Waltham, MA
+
+| **Business Intelligence and Reporting Analyst Intern** | :watch: Jan 2017- July 2017 \ 7 mos |
+
 **Dassault Systèmes** is a European multinational company headquartered in [Vélizy-Villacoublay](https://en.wikipedia.org/wiki/V%C3%A9lizy-Villacoublay "Vélizy-Villacoublay"), France that develops 3D design, 3D digital mock-up, and [product lifecycle management](https://en.wikipedia.org/wiki/Product_lifecycle_management "Product lifecycle management") (PLM) software used by brands like Boeing, BMW, IBM and Google.
 
-**Business Intelligence and Reporting Analyst Intern** :watch: Jan 2017- July 2017 | 7 mos
 - Developed the project plan and created process flow diagrams for automating data tracking and reporting system.
 - Designed and developed BI solutions to extract data from multiple sources, transformed and generated trend analysis reports (charts, graphs and
 tables) using Power BI and Tableau measuring project progress through KPIs.
@@ -56,9 +56,11 @@ tables) using Power BI and Tableau measuring project progress through KPIs.
 - Created dynamic dashboards (evaluating success/failure rate of reaching targets, skill assessment) using Tableau Desktop.
 
 ## Northeastern University :pushpin: Boston, MA
+
+| **Graduate Teaching Assistant** | :watch: May 2016 - Aug 2016 / 4 mos |
+
 **Northeastern University** is a [private](https://en.wikipedia.org/wiki/Private_university "Private university")  [research university](https://en.wikipedia.org/wiki/Research_university "Research university") in [Boston](https://en.wikipedia.org/wiki/Boston "Boston"), [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts "Massachusetts"), established in 1898. It is categorized as an R1 institution (Doctoral Universities: Highest Research Activity) by the [Carnegie Classification of Institutions of Higher Education](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education "Carnegie Classification of Institutions of Higher Education").
 
-**Graduate Teaching Assistant**  :watch: May 2016 - Aug 2016 | 4 mos
 
 - Mentored 40 students in designing SSIS, SSRS and SSAS packages to develop OLAP cubes for analytical reporting.
 - Guided students to identify trends using data analysis in python, R and visualize them using Tableau, Power BI, Qlik View.
@@ -66,9 +68,11 @@ tables) using Power BI and Tableau measuring project progress through KPIs.
 - Assisted students in preparing detailed specifications for database/BI proposals to design, code, test, debug, document, and maintain database entities.
 
 ## Tata Consultancy Services :pushpin: Pune, India
+
+| **Senior Business Intelligence and Data Analyst** | :watch: Mar 2014 - Dec 2014 / 1 yr 6 mos |
+
 *[Tata Consultancy Services Limited (TCS)](https://en.wikipedia.org/wiki/Tata_Consultancy_Services)  is an Indian [multinational](https://en.wikipedia.org/wiki/Multinational_corporation "Multinational corporation")  [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") (IT) [service](https://en.wikipedia.org/wiki/Service_(economics) "Service (economics)"), [consulting](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") and business solutions company [headquartered](https://en.wikipedia.org/wiki/Headquarter "Headquarter") in [Mumbai](https://en.wikipedia.org/wiki/Mumbai "Mumbai"), [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra "Maharashtra"). It is a subsidiary of the [Tata Group](https://en.wikipedia.org/wiki/Tata_Group "Tata Group") and operates in 46 countries.*
 
-**Senior Business Intelligence and Data Analyst**  :watch: Mar 2014 - Dec 2014 | 1 yr 6 mos
 - Managed a team of 6 members achieving 12.5% cost reduction by performing SWOT analysis for a healthcare company.
 - Developed project scope and worked with business stakeholders to gather the requirements, determine the product desired, and steps to achieve it
 following SDLC.
@@ -80,9 +84,11 @@ following SDLC.
 
 
 ## Tata Consultancy Services :pushpin: Pune, India
+
+| **Business Intelligence and Data Analyst** | :watch: Dec 2008 - Sep 2012 / 3 yr 10 mos |
+
 *[Tata Consultancy Services Limited (TCS)](https://en.wikipedia.org/wiki/Tata_Consultancy_Services)  is an Indian [multinational](https://en.wikipedia.org/wiki/Multinational_corporation "Multinational corporation")  [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") (IT) [service](https://en.wikipedia.org/wiki/Service_(economics) "Service (economics)"), [consulting](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") and business solutions company [headquartered](https://en.wikipedia.org/wiki/Headquarter "Headquarter") in [Mumbai](https://en.wikipedia.org/wiki/Mumbai "Mumbai"), [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra "Maharashtra"). It is a subsidiary of the [Tata Group](https://en.wikipedia.org/wiki/Tata_Group "Tata Group") and operates in 46 countries.*
 
-**Business Intelligence and Data Analyst** :watch: Dec 2008 - Sep 2012 | `3 yr 10 mos`
 - Lead a team of 5 members using agile methodology for data migration in MSSQL of 1446 bank branches through PeopleSoft CRM to CBS (Core Banking Solutions).
 - Developed functional specifications, ER diagrams and designed workflows for the business processes.
 - Performed data cleansing with R for ETL deployment by SSIS, and used the transformed data for forecasting analysis.
