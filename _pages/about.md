@@ -6,16 +6,15 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: assets/images/ian-froome-362124-unsplash.jpg
   caption: "Photo credit: [Photo by Ian Froome on Unsplash](https://unsplash.com)"
-  cta_label: "<i class='fas fa-file-word'></i> Download Resume"
+  cta_label: "<i class='fa fa-file-word'></i> Download Resume"
   cta_url: "/assets/files/ritu_palod_resume.doc"
 excerpt: "Life is not measured by the number of breaths we take, but by the number of moments that take your breath away."
 ---
 
 # Ritu Palod
 
-| :house_with_garden: Boston, MA 02115 | :phone: (857) 763-9983 |
-
-| :email: [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) | :globe_with_meridians: [ritupalod.github.io](https://ritupalod.github.io) | :sunflower: [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
+| :email: [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) | :house_with_garden: Boston, MA 02115 | :phone: (857) 763-9983 |
+| :necktie: [https://www.linkedin.com/in/ritupalod/](https://www.linkedin.com/in/ritupalod/) | :globe_with_meridians: [ritupalod.github.io](https://ritupalod.github.io) | :sunflower: [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
 
 
 # :sunrise: Summary
