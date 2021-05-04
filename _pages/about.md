@@ -13,7 +13,7 @@ excerpt: "Life is not measured by the number of breaths we take, but by the numb
 
 # Ritu Palod
 
-| 📧 [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) |🏕 Vancouver,BC  | ☎ (250) 880-7264 |
+| 📧 [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) | 🏕 Vancouver,BC | ⛳[YouTube](https://www.youtube.com/watch?v=VylltUWySAU&t=6s)
 | 👒 [https://www.linkedin.com/in/ritupalod/](https://www.linkedin.com/in/ritupalod/) | 🛸 [ritupalod.github.io](https://ritupalod.github.io) | ⚓ [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
 
 
