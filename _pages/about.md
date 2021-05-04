@@ -13,8 +13,8 @@ excerpt: "Life is not measured by the number of breaths we take, but by the numb
 
 # Ritu Palod
 
-| :email: [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) | :house_with_garden: Boston, MA 02115 | :phone: (857) 763-9983 |
-| :necktie: [https://www.linkedin.com/in/ritupalod/](https://www.linkedin.com/in/ritupalod/) | :globe_with_meridians: [ritupalod.github.io](https://ritupalod.github.io) | :sunflower: [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
+| 📧 [ritu.palod@gmail.com](mailto:ritu.palod@gmail.com) |🏕 Vancouver,BC  | ☎ (250) 880-7264 |
+| 👒 [https://www.linkedin.com/in/ritupalod/](https://www.linkedin.com/in/ritupalod/) | 🛸 [ritupalod.github.io](https://ritupalod.github.io) | ⚓ [public.tableau.com/profile/ritu.palod](https://public.tableau.com/profile/ritu.palod)
 
 
 # :sunrise: Summary
