@@ -7,7 +7,7 @@ header:
   overlay_image: assets/images/ian-froome-362124-unsplash.jpg
   caption: "Photo credit: [Photo by Ian Froome on Unsplash](https://unsplash.com)"
   cta_label: "<i class='fa fa-file-word'></i> Download Resume"
-  cta_url: "/assets/files/ritu_palod_resume.doc"
+  cta_url: "/assets/files/ritu_palod_resume.pdf"
 excerpt: "Life is not measured by the number of breaths we take, but by the number of moments that take your breath away."
 ---
 
