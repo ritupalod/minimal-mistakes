@@ -60,9 +60,6 @@ risks and deviations to ensure timely deliverables.
 - Created data warehouse cleaning routines and actively maintained loading of PostgreSQL tables and views in ETL pipeline.
 
 
-
-
-
 ## Dassault Systèmes :pushpin: Waltham, MA, USA
 
 | **Business Intelligence and Reporting Analyst Intern** | :watch: Jan 2017- July 2017 \ 7 mos |
