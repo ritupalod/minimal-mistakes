@@ -49,6 +49,15 @@ Coursework:
 *[True Fit Corporation](https://www.truefit.com/en/About-Us/Who-We-Are)  is a [multinational](https://en.wikipedia.org/wiki/Multinational_corporation "Multinational corporation")  [Fashion technology](https://en.wikipedia.org/wiki/Fashion_technology "Fashion technology") (IT) [service](https://en.wikipedia.org/wiki/Service_(economics) "Service (economics)"), [consulting](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") and business solutions company [headquartered](https://en.wikipedia.org/wiki/Headquarter "Headquarter") in [Boston](https://en.wikipedia.org/wiki/Boston "Boston"), [Massachussetts](https://en.wikipedia.org/wiki/Massachussetts "Massachussetts"). 
 
 
+- Designed interactive, responsive and insightful dashboards using Tableau for analytical reporting to C-Level executives.
+- Translated business requirements into technical specifications, built KPIs resulting in million-dollar sales increase.
+- Strategized user base behavior and provided conversion-rate optimization based on new, returning, and instant users' profile.
+- Conducted sales and returns analysis that reduced returns rate by 55% post True-Fit incorporation on the retailer’s site.
+- Performed BI Maintenance tasks, resolve data anomalies and ensure data consistency in existing and new reports.
+- Scrum master: Identified opportunities for improvement, discuss pending tasks, resolve conflicts and develop plans to mitigate 
+risks and deviations to ensure timely deliverables.
+- Created a knowledge base BI wiki to document the data warehouse architecture, ongoing reports, and metrics.
+- Created data warehouse cleaning routines and actively maintained loading of PostgreSQL tables and views in ETL pipeline.
 
 
 
