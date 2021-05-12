@@ -42,6 +42,16 @@ Coursework:
 
 # :office: Work Experience
 
+## True Fit Corporation :pushpin: Pune, India
+
+| **Business Intelligence and Data Analyst** | :watch: May 2018 - Apr 2020 / 1 yr 11 mos |
+
+*[True Fit](https://en.wikipedia.org/wiki/Tata_Consultancy_Services)  is an Indian [multinational](https://en.wikipedia.org/wiki/Multinational_corporation "Multinational corporation")  [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") (IT) [service](https://en.wikipedia.org/wiki/Service_(economics) "Service (economics)"), [consulting](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") and business solutions company [headquartered](https://en.wikipedia.org/wiki/Headquarter "Headquarter") in [Mumbai](https://en.wikipedia.org/wiki/Mumbai "Mumbai"), [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra "Maharashtra"). It is a subsidiary of the [Tata Group](https://en.wikipedia.org/wiki/Tata_Group "Tata Group") and operates in 46 countries.*
+
+
+
+
+
 ## Dassault Systèmes :pushpin: Waltham, MA
 
 | **Business Intelligence and Reporting Analyst Intern** | :watch: Jan 2017- July 2017 \ 7 mos |
@@ -65,21 +75,6 @@ tables) using Power BI and Tableau measuring project progress through KPIs.
 - Guided students to identify trends using data analysis in python, R and visualize them using Tableau, Power BI, Qlik View.
 - Helped students in gathering, analyzing, and determining data requirements in support of the Business Intelligence, including overall coordination of the BI platform, interface, and back-end databases.
 - Assisted students in preparing detailed specifications for database/BI proposals to design, code, test, debug, document, and maintain database entities.
-
-## Tata Consultancy Services :pushpin: Pune, India
-
-| **Senior Business Intelligence and Data Analyst** | :watch: Mar 2014 - Dec 2014 / 1 yr 6 mos |
-
-*[Tata Consultancy Services Limited (TCS)](https://en.wikipedia.org/wiki/Tata_Consultancy_Services)  is an Indian [multinational](https://en.wikipedia.org/wiki/Multinational_corporation "Multinational corporation")  [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") (IT) [service](https://en.wikipedia.org/wiki/Service_(economics) "Service (economics)"), [consulting](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") and business solutions company [headquartered](https://en.wikipedia.org/wiki/Headquarter "Headquarter") in [Mumbai](https://en.wikipedia.org/wiki/Mumbai "Mumbai"), [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra "Maharashtra"). It is a subsidiary of the [Tata Group](https://en.wikipedia.org/wiki/Tata_Group "Tata Group") and operates in 46 countries.*
-
-- Managed a team of 6 members achieving 12.5% cost reduction by performing SWOT analysis for a healthcare company.
-- Developed project scope and worked with business stakeholders to gather the requirements, determine the product desired, and steps to achieve it
-following SDLC.
-- Prepared budget, journal entries, profit and loss statements, balance sheets, expense and revenue sheets in MS Excel.
-- Performed break-even analysis supporting business by providing detailed analysis (highlighting KPIs) to the management.
-- Developed plans to mitigate risks and deviations for timely deliveries and resolved conflicts if any.
-- Scheduled sprint retrospective to identify opportunities for improvement, discuss tasks pending and ways to achieve it.
-- Facilitated daily scrum meetings tracking project progress using burndown charts reviewing existing sprint accordingly.
 
 
 ## Tata Consultancy Services :pushpin: Pune, India
